@@ -8,7 +8,7 @@
  */
 namespace Lifekent\PhantomJs\Tests\Unit\Parser;
 
-use JonnyW\PhantomJs\Parser\JsonParser;
+use Lifekent\PhantomJs\Parser\JsonParser;
 
 /**
  * PHP PhantomJs

@@ -8,9 +8,9 @@
  */
 namespace Lifekent\PhantomJs\Tests\Integration\Procedure;
 
-use JonnyW\PhantomJs\Http\Request;
-use JonnyW\PhantomJs\Procedure\ProcedureCompiler;
-use JonnyW\PhantomJs\DependencyInjection\ServiceContainer;
+use Lifekent\PhantomJs\Http\Request;
+use Lifekent\PhantomJs\Procedure\ProcedureCompiler;
+use Lifekent\PhantomJs\DependencyInjection\ServiceContainer;
 
 /**
  * PHP PhantomJs

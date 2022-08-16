@@ -8,7 +8,7 @@
  */
 namespace Lifekent\PhantomJs;
 
-use JonnyW\PhantomJs\Exception\InvalidExecutableException;
+use Lifekent\PhantomJs\Exception\InvalidExecutableException;
 
 /**
  * PHP PhantomJs

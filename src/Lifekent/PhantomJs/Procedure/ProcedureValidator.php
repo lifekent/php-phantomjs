@@ -8,9 +8,9 @@
  */
 namespace Lifekent\PhantomJs\Procedure;
 
-use JonnyW\PhantomJs\Validator\EngineInterface;
-use JonnyW\PhantomJs\Exception\SyntaxException;
-use JonnyW\PhantomJs\Exception\RequirementException;
+use Lifekent\PhantomJs\Validator\EngineInterface;
+use Lifekent\PhantomJs\Exception\SyntaxException;
+use Lifekent\PhantomJs\Exception\RequirementException;
 
 /**
  * PHP PhantomJs

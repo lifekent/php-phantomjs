@@ -10,14 +10,14 @@ namespace Lifekent\PhantomJs\Tests\Unit\Procedure;
 
 use Twig_Environment;
 use Twig_Loader_String;
-use JonnyW\PhantomJs\Engine;
-use JonnyW\PhantomJs\Cache\FileCache;
-use JonnyW\PhantomJs\Cache\CacheInterface;
-use JonnyW\PhantomJs\Parser\JsonParser;
-use JonnyW\PhantomJs\Parser\ParserInterface;
-use JonnyW\PhantomJs\Template\TemplateRenderer;
-use JonnyW\PhantomJs\Template\TemplateRendererInterface;
-use JonnyW\PhantomJs\Procedure\ProcedureFactory;
+use Lifekent\PhantomJs\Engine;
+use Lifekent\PhantomJs\Cache\FileCache;
+use Lifekent\PhantomJs\Cache\CacheInterface;
+use Lifekent\PhantomJs\Parser\JsonParser;
+use Lifekent\PhantomJs\Parser\ParserInterface;
+use Lifekent\PhantomJs\Template\TemplateRenderer;
+use Lifekent\PhantomJs\Template\TemplateRendererInterface;
+use Lifekent\PhantomJs\Procedure\ProcedureFactory;
 
 /**
  * PHP PhantomJs

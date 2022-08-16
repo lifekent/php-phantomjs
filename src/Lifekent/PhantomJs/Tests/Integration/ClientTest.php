@@ -9,9 +9,9 @@
 
 namespace Lifekent\PhantomJs\Tests\Integration;
 
-use JonnyW\PhantomJs\Test\TestCase;
-use JonnyW\PhantomJs\Client;
-use JonnyW\PhantomJs\DependencyInjection\ServiceContainer;
+use Lifekent\PhantomJs\Test\TestCase;
+use Lifekent\PhantomJs\Client;
+use Lifekent\PhantomJs\DependencyInjection\ServiceContainer;
 
 /**
  * PHP PhantomJs.

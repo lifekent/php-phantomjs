@@ -9,7 +9,7 @@
 
 namespace Lifekent\PhantomJs\Http;
 
-use JonnyW\PhantomJs\Exception\NotWritableException;
+use Lifekent\PhantomJs\Exception\NotWritableException;
 
 /**
  * PHP PhantomJs.

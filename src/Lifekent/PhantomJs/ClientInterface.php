@@ -8,8 +8,8 @@
  */
 namespace Lifekent\PhantomJs;
 
-use JonnyW\PhantomJs\Http\RequestInterface;
-use JonnyW\PhantomJs\Http\ResponseInterface;
+use Lifekent\PhantomJs\Http\RequestInterface;
+use Lifekent\PhantomJs\Http\ResponseInterface;
 
 /**
  * PHP PhantomJs

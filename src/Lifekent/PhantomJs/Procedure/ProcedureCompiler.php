@@ -9,8 +9,8 @@
 
 namespace Lifekent\PhantomJs\Procedure;
 
-use JonnyW\PhantomJs\Cache\CacheInterface;
-use JonnyW\PhantomJs\Template\TemplateRendererInterface;
+use Lifekent\PhantomJs\Cache\CacheInterface;
+use Lifekent\PhantomJs\Template\TemplateRendererInterface;
 
 /**
  * PHP PhantomJs

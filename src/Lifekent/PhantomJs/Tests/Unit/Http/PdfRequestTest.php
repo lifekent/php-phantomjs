@@ -8,8 +8,8 @@
  */
 namespace Lifekent\PhantomJs\Tests\Unit\Http;
 
-use JonnyW\PhantomJs\Http\PdfRequest;
-use JonnyW\PhantomJs\Http\RequestInterface;
+use Lifekent\PhantomJs\Http\PdfRequest;
+use Lifekent\PhantomJs\Http\RequestInterface;
 
 /**
  * PHP PhantomJs

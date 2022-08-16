@@ -8,7 +8,7 @@
  */
 namespace Lifekent\PhantomJs\Http;
 
-use JonnyW\PhantomJs\Procedure\OutputInterface;
+use Lifekent\PhantomJs\Procedure\OutputInterface;
 
 /**
  * PHP PhantomJs

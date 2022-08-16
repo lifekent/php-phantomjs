@@ -8,7 +8,7 @@
  */
 namespace Lifekent\PhantomJs\Tests\Unit\Cache;
 
-use JonnyW\PhantomJs\Cache\FileCache;
+use Lifekent\PhantomJs\Cache\FileCache;
 
 /**
  * PHP PhantomJs

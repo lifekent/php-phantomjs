@@ -8,7 +8,7 @@
  */
 namespace Lifekent\PhantomJs\Tests\Unit\Http;
 
-use JonnyW\PhantomJs\Http\Response;
+use Lifekent\PhantomJs\Http\Response;
 
 /**
  * PHP PhantomJs

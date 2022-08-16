@@ -8,7 +8,7 @@
  */
 namespace Lifekent\PhantomJs\Tests\Unit\Procedure;
 
-use JonnyW\PhantomJs\Procedure\ChainProcedureLoader;
+use Lifekent\PhantomJs\Procedure\ChainProcedureLoader;
 
 /**
  * PHP PhantomJs

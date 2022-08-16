@@ -8,9 +8,9 @@
  */
 namespace Lifekent\PhantomJs\Cache;
 
-use JonnyW\PhantomJs\StringUtils;
-use JonnyW\PhantomJs\Exception\NotWritableException;
-use JonnyW\PhantomJs\Exception\NotExistsException;
+use Lifekent\PhantomJs\StringUtils;
+use Lifekent\PhantomJs\Exception\NotWritableException;
+use Lifekent\PhantomJs\Exception\NotExistsException;
 
 /**
  * PHP PhantomJs

@@ -9,7 +9,7 @@
 namespace Lifekent\PhantomJs\Tests\Unit\Validator;
 
 use Symfony\Component\Config\FileLocator;
-use JonnyW\PhantomJs\Validator\Esprima;
+use Lifekent\PhantomJs\Validator\Esprima;
 
 /**
  * PHP PhantomJs

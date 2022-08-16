@@ -8,13 +8,13 @@
  */
 namespace Lifekent\PhantomJs\Procedure;
 
-use JonnyW\PhantomJs\Engine;
-use JonnyW\PhantomJs\Cache\CacheInterface;
-use JonnyW\PhantomJs\Parser\ParserInterface;
-use JonnyW\PhantomJs\Template\TemplateRendererInterface;
-use JonnyW\PhantomJs\Exception\NotWritableException;
-use JonnyW\PhantomJs\Exception\ProcedureFailedException;
-use JonnyW\PhantomJs\StringUtils;
+use Lifekent\PhantomJs\Engine;
+use Lifekent\PhantomJs\Cache\CacheInterface;
+use Lifekent\PhantomJs\Parser\ParserInterface;
+use Lifekent\PhantomJs\Template\TemplateRendererInterface;
+use Lifekent\PhantomJs\Exception\NotWritableException;
+use Lifekent\PhantomJs\Exception\ProcedureFailedException;
+use Lifekent\PhantomJs\StringUtils;
 
 /**
  * PHP PhantomJs

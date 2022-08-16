@@ -9,7 +9,7 @@
 namespace Lifekent\PhantomJs\Procedure;
 
 use Symfony\Component\Config\FileLocatorInterface;
-use JonnyW\PhantomJs\Exception\NotExistsException;
+use Lifekent\PhantomJs\Exception\NotExistsException;
 
 /**
  * PHP PhantomJs

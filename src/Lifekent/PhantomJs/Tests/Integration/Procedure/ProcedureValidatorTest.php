@@ -9,12 +9,12 @@
 namespace Lifekent\PhantomJs\Tests\Integration\Procedure;
 
 use Symfony\Component\Config\FileLocator;
-use JonnyW\PhantomJs\Client;
-use JonnyW\PhantomJs\Procedure\Procedure;
-use JonnyW\PhantomJs\Procedure\ProcedureLoaderInterface;
-use JonnyW\PhantomJs\Procedure\ProcedureValidator;
-use JonnyW\PhantomJs\Validator\Esprima;
-use JonnyW\PhantomJs\Validator\EngineInterface;
+use Lifekent\PhantomJs\Client;
+use Lifekent\PhantomJs\Procedure\Procedure;
+use Lifekent\PhantomJs\Procedure\ProcedureLoaderInterface;
+use Lifekent\PhantomJs\Procedure\ProcedureValidator;
+use Lifekent\PhantomJs\Validator\Esprima;
+use Lifekent\PhantomJs\Validator\EngineInterface;
 
 /**
  * PHP PhantomJs

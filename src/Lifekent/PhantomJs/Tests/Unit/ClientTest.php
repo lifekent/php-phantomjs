@@ -8,11 +8,11 @@
  */
 namespace Lifekent\PhantomJs\Tests\Unit;
 
-use JonnyW\PhantomJs\Client;
-use JonnyW\PhantomJs\Engine;
-use JonnyW\PhantomJs\Http\MessageFactoryInterface;
-use JonnyW\PhantomJs\Procedure\ProcedureLoaderInterface;
-use JonnyW\PhantomJs\Procedure\ProcedureCompilerInterface;
+use Lifekent\PhantomJs\Client;
+use Lifekent\PhantomJs\Engine;
+use Lifekent\PhantomJs\Http\MessageFactoryInterface;
+use Lifekent\PhantomJs\Procedure\ProcedureLoaderInterface;
+use Lifekent\PhantomJs\Procedure\ProcedureCompilerInterface;
 
 /**
  * PHP PhantomJs

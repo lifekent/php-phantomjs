@@ -8,12 +8,12 @@
  */
 namespace Lifekent\PhantomJs;
 
-use JonnyW\PhantomJs\Procedure\ProcedureLoaderInterface;
-use JonnyW\PhantomJs\Procedure\ProcedureCompilerInterface;
-use JonnyW\PhantomJs\Http\MessageFactoryInterface;
-use JonnyW\PhantomJs\Http\RequestInterface;
-use JonnyW\PhantomJs\Http\ResponseInterface;
-use JonnyW\PhantomJs\DependencyInjection\ServiceContainer;
+use Lifekent\PhantomJs\Procedure\ProcedureLoaderInterface;
+use Lifekent\PhantomJs\Procedure\ProcedureCompilerInterface;
+use Lifekent\PhantomJs\Http\MessageFactoryInterface;
+use Lifekent\PhantomJs\Http\RequestInterface;
+use Lifekent\PhantomJs\Http\ResponseInterface;
+use Lifekent\PhantomJs\DependencyInjection\ServiceContainer;
 
 /**
  * PHP PhantomJs

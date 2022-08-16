@@ -8,7 +8,7 @@
  */
 namespace Lifekent\PhantomJs\Tests\Unit\Http;
 
-use JonnyW\PhantomJs\Http\MessageFactory;
+use Lifekent\PhantomJs\Http\MessageFactory;
 
 /**
  * PHP PhantomJs

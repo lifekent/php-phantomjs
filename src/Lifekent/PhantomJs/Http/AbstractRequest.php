@@ -9,8 +9,8 @@
 
 namespace Lifekent\PhantomJs\Http;
 
-use JonnyW\PhantomJs\Exception\InvalidMethodException;
-use JonnyW\PhantomJs\Procedure\InputInterface;
+use Lifekent\PhantomJs\Exception\InvalidMethodException;
+use Lifekent\PhantomJs\Procedure\InputInterface;
 
 /**
  * PHP PhantomJs

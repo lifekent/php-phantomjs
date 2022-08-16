@@ -8,7 +8,7 @@
  */
 namespace Lifekent\PhantomJs\Tests\Unit\Procedure;
 
-use JonnyW\PhantomJs\Procedure\Output;
+use Lifekent\PhantomJs\Procedure\Output;
 
 /**
  * PHP PhantomJs

@@ -8,7 +8,7 @@
  */
 namespace Lifekent\PhantomJs\Tests\Unit;
 
-use JonnyW\PhantomJs\StringUtils;
+use Lifekent\PhantomJs\StringUtils;
 
 /**
  * PHP PhantomJs

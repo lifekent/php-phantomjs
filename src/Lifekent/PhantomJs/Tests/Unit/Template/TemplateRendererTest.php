@@ -10,8 +10,8 @@ namespace Lifekent\PhantomJs\Tests\Unit\Template;
 
 use Twig_Environment;
 use Twig_Loader_String;
-use JonnyW\PhantomJs\Http\Request;
-use JonnyW\PhantomJs\Template\TemplateRenderer;
+use Lifekent\PhantomJs\Http\Request;
+use Lifekent\PhantomJs\Template\TemplateRenderer;
 
 /**
  * PHP PhantomJs

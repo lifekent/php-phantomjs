@@ -8,7 +8,7 @@
  */
 namespace Lifekent\PhantomJs\Test;
 
-use JonnyW\PhantomJs\DependencyInjection\ServiceContainer;
+use Lifekent\PhantomJs\DependencyInjection\ServiceContainer;
 
 /**
  * PHP PhantomJs

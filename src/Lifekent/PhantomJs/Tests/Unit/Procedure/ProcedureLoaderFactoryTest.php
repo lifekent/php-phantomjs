@@ -8,8 +8,8 @@
  */
 namespace Lifekent\PhantomJs\Tests\Unit\Procedure;
 
-use JonnyW\PhantomJs\Procedure\ProcedureFactoryInterface;
-use JonnyW\PhantomJs\Procedure\ProcedureLoaderFactory;
+use Lifekent\PhantomJs\Procedure\ProcedureFactoryInterface;
+use Lifekent\PhantomJs\Procedure\ProcedureLoaderFactory;
 
 /**
  * PHP PhantomJs
